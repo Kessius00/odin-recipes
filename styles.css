@@ -1,5 +1,6 @@
 *{
-    font-family: Georgia, 'Times New Roman', Times, serif;   
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    background-color: beige; 
 }
 
 h3,
@@ -8,7 +9,14 @@ p{
     text-align: center;
 }
 
-li, strong{
-    color: violet;
+ul, strong{
+    color: rgb(168, 53, 168);
 
+}
+ol{
+    color: darkred;
+}
+
+.ul-home{
+    text-align: center;
 }
