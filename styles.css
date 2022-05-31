@@ -1,4 +1,4 @@
-*{
+body{
     font-family: Georgia, 'Times New Roman', Times, serif;  
     background-color: beige; 
 }
@@ -14,7 +14,7 @@ ul, strong{
 
 }
 ol{
-    color: darkred;
+    color: hwb(0 0% 45%);
 }
 
 .ul-home{
